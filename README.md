@@ -7,7 +7,7 @@ The app is made to display the nearest vaccination centers according to the pinc
 ## Android Concepts used: - 
 Recycler View , Volley library 
 ### Link to The API used:
-https://apisetu.gov.in/public/api/cowin
+https://apisetu.gov.in/api/cowin
 ## Explanation of the app:
 The App displays the nearest vaccination center according to the pincode and date.
 
