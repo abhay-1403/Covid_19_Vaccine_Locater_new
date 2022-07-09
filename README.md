@@ -1,5 +1,5 @@
 # VaccineLocater
-Link to the App: https://github.com/abhay-1403/VaccineLocater
+Link to the App: https://github.com/abhay-1403/Covid_19_Vaccine_Locater_new
 ## Technologies Used:- 
 Kotlin , Android Studio 
 ## Objective of the App:- 
@@ -16,6 +16,10 @@ The App displays the nearest vaccination center according to the pincode and dat
 ![ss2](https://user-images.githubusercontent.com/83871414/178116482-708e384f-8ee6-44d7-9db3-a22d5f09e61a.PNG)
 ![ss3](https://user-images.githubusercontent.com/83871414/178116478-a1833560-9059-4d53-aa51-8a59051f202b.PNG)
 ![ss4](https://user-images.githubusercontent.com/83871414/178116476-773b4b5f-c4a7-4e55-bc34-1850bc0eb5f1.PNG)
+
+
+https://user-images.githubusercontent.com/83871414/178116544-66860035-a0e8-416f-a5d8-0059a6a41263.mp4
+
 
 
 
