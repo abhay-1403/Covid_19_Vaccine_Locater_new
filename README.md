@@ -17,6 +17,7 @@ The App displays the nearest vaccination center according to the pincode and dat
 ![ss3](https://user-images.githubusercontent.com/83871414/178116478-a1833560-9059-4d53-aa51-8a59051f202b.PNG)
 ![ss4](https://user-images.githubusercontent.com/83871414/178116476-773b4b5f-c4a7-4e55-bc34-1850bc0eb5f1.PNG)
 
+## Working video of the App
 
 https://user-images.githubusercontent.com/83871414/178116544-66860035-a0e8-416f-a5d8-0059a6a41263.mp4
 
